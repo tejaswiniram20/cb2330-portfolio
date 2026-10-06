@@ -1,0 +1,5 @@
+name,value,unit,source
+n_het_sites,46098,sites,"Online Methods, 'Analysis of flow cells' / allele ratio paragraph: 46,098 heterozygous SNP positions on chromosome 20 (Illumina Platinum Genomes VCF, GM12878)"
+mean_d,0.13,fraction of reads,"Online Methods: 'Averaged over all evaluated heterozygous SNPs, d = 0.13'"
+p90_d,0.27,fraction of reads,"Online Methods: '90% of SNPs have d <= 0.27'"
+mean_coverage,27.4,reads per site,"Fig. 1c legend and Online Methods: whole-genome coverage compared with Poisson lambda = 27.4 (mean coverage excluding 0-coverage positions 27.41, s.d. 64.98)"
