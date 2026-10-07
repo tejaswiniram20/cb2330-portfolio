@@ -27,16 +27,16 @@ The main weakness: w depends on how many reads each site has. We used 27.4, whic
 ## How to run it
 
 ```
-git clone <this repo>
-cd <this repo>
+git clone https://github.com/tejaswiniram20/cb2330-portfolio.git
+cd cb2330-portfolio/project
 pip install -r requirements.txt
 jupyter notebook project.ipynb
 ```
 
-Run all cells top to bottom. Takes about a minute. Only the Python standard library and matplotlib are used; random numbers come from a fixed-seed generator written in the notebook, so the output is the same every run.
+Run all cells top to bottom. Only the Python standard library and matplotlib are used. Random numbers come from a fixed-seed generator written in the notebook.
 
 ## Files
 
-- `project.ipynb`: the project card, then the work
-- `data/paper_numbers.csv`: the four numbers taken from the paper
-- `data/README.md`: where they came from and their shape
+- `project.ipynb`: The project work
+- `data/paper_numbers.csv`: The four numbers taken from the paper
+- `data/README.md`: Where the numbers came from and their shape
